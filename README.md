@@ -1,4 +1,4 @@
-## Welcome to my profile ✌
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=//+Welcome+to+my+profile+😺&color=7FFF00)](https://git.io/typing-svg)
 
  <div style="display: inline_block">
    <img height="160em" src="https://github-readme-stats.vercel.app/api?username=kaio05&show_icons=true&theme=chartreuse-dark&include_all_commits=true&count_private=true"/>
